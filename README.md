@@ -3,6 +3,6 @@
 
 # Hi there 👋
 
-<img src="banner.jpg" width="100%">
+<img src="pc_wallpaper_1920x1080.jpeg" width="100%">
 
 </div>
